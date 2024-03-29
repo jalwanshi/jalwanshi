@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning React.js.
 - 💼 I'm looking to collaborate on exciting projects with big IT companies like Microsoft, Google, TCS, and Infosys.
 - 📫 You can reach me via email at ankitnishad703@gmail.com.
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: AI Ka GrandFather.
 - ⚡ Fun fact: I'm a BCA student.
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
